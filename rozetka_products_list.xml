@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-02-13 13:06">
+   <shop>
+      <name>oldrocker_shop</name>
+      <company>ФОП Прядка Д.В.</company>
+      <currencies>
+        <currency id="UAH" rate="1" />
+      </currencies>
+      
+      <categories>
+        <category id="c4627893">Спорт и увлечения</category>
+        <category id="c267255" parentId="c4627893">Музыкальные инструменты и оборудование</category>
+        <category id="c297207" parentId="c267255">Гитары и оборудование</category>
+        <category id="c4628348" parentId="c297207">Гитары</category>
+        <category id="c294194" parentId="c4628348">Укулеле</category>
+      </categories>
+
+      <offers>
+        <offer id="1" available="true">
+          <price>950</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>c294194</categoryId>
+          <picture>https://i.ibb.co/XjJ5Cpp/1.png</picture>
+          <picture>https://i.ibb.co/Kwgy1B2/2.png</picture>
+          <vendor>Osten</vendor>
+          <stock_quantity>20</stock_quantity>
+          <name>Укулеле Osten UK2110 21" зебрано</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>Osten UK2110 21" зебрано</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Имеет звонкий звук и приятный внешний вид
+                </li>
+                <li>
+                  Дерево - палисандр - одно из самых дорогих материалов, применяемых при
+                  изготовлении инструментов, дающее отличный звук высокого качества.
+                  Укулеле полностью деревянный без пластиковых элементов
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>  
+            ]]>
+          </description>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Корпус">Палисандр</param>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">15</param>
+          <param name="Цвет">Natural</param>
+          <param name="Электроника">Нет</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Доставка/Оплата">
+            Отправка товара осуществляется сразу после оформления и оплаты заказа
+          </param>
+        </offer>
+      </offers>
+   </shop>
+</yml_catalog>
