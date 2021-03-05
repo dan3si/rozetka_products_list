@@ -9,26 +9,177 @@
       </currencies>
       
       <categories>
-        <category id="c4627893">Спорт и увлечения</category>
-        <category id="c267255" parentId="c4627893">Музыкальные инструменты и оборудование</category>
-        <category id="c297207" parentId="c267255">Гитары и оборудование</category>
-        <category id="c4628348" parentId="c297207">Гитары</category>
-        <category id="c294194" parentId="c4628348">Укулеле</category>
+        <category id="4627893">Спорт и увлечения</category>
+        <category id="267255" parentId="4627893">Музыкальные инструменты и оборудование</category>
+
+        <category id="298222" parentId="267255">Звукозапись</category>
+        <category id="298449" parentId="298222">Микрофонные аксессуары</category>
+
+        <category id="297207" parentId="267255">Гитары и оборудование</category>
+        <category id="4628348" parentId="297207">Гитары</category>
+        <category id="4628334" parentId="4628348">Классические гитары</category>
+        <category id="267256" parentId="4628348">Акустические гитары</category>
+        <category id="294194" parentId="4628348">Укулеле</category>
+        <category id="1131230" parentId="297207">Аксессуры для гитар</category>
+        <category id="274431" parentId="1131230">Чехлы и кейсы для гитар</category>
+
+        <category id="296831" parentId="267255">Духовые инструменты</category>
+        <category id="307619" parentId="296831">Деревянные духовые</category>
+        <category id="4629017" parentId="296831">Медные духовые</category>
+        <category id="297113" parentId="296831">Пианики (мелодики)</category>
+        <category id="297035" parentId="296831">Аксессуары для духовых инструментов</category>
+
+        <category id="306949" parentId="267255">Смычковые инструменты</category>
+        <category id="307539" parentId="306949">Аксессуары для смычковых</category>
+        
+        <category id="295852" parentId="267255">Ударные инструменты</category>
+        <category id="296822" parentId="295852">Перкуссия</category>
       </categories>
 
       <offers>
         <offer id="1" available="true">
-          <price>950</price>
+          <price>1295</price>
           <currencyId>UAH</currencyId>
-          <categoryId>c294194</categoryId>
-          <picture>https://i.ibb.co/XjJ5Cpp/1.png</picture>
-          <picture>https://i.ibb.co/Kwgy1B2/2.png</picture>
-          <vendor>Osten</vendor>
-          <stock_quantity>20</stock_quantity>
-          <name>Укулеле Osten UK2110 21" зебрано</name>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/bbQLvsy/2.png</picture>
+          <picture>https://i.ibb.co/b7bZF4x/1.png</picture>
+          <picture>https://i.ibb.co/Lp2vNLw/3.png</picture>
+          <picture>https://i.ibb.co/HPbLJN5/4.png</picture>
+          <picture>https://i.ibb.co/J3Ptp7L/5.png</picture>
+          <picture>https://i.ibb.co/F6SkSCL/6.png</picture>
+          <vendor>BWS</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле концерт BWS Concert Natural (529-1)</name>
           <description>
             <![CDATA[
-              Укулеле <b>Osten UK2110 21" зебрано</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              Укулеле <b>BWS Concert 23"</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="2" available="true">
+          <price>1470</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/ZcZrYmN/1.png</picture>
+          <picture>https://i.ibb.co/hs4txLY/2.png</picture>
+          <picture>https://i.ibb.co/JRLnWwG/3.png</picture>
+          <picture>https://i.ibb.co/ZmZr0y8/4.png</picture>
+          <picture>https://i.ibb.co/yqxQJZh/5.png</picture>
+          <picture>https://i.ibb.co/d0Fh6NB/6.png</picture>
+          <vendor>BWS</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле тенор BWS T26-N</name>
+          <description>
+            <![CDATA[
+              <h3>Укулеле тенор BWS T26-N</h3>
+              <p>
+                Новая тенор укулеле (гавайская гитара) BWS T26-N. 
+                Инструмент выполнен очень качественно с использованием дорогих пород дерева: махагони и палисандра,
+                что дает в сочетании прекрасное громкое звучание и удобство игры.
+                Тенор укулеле BWS T26-N подойдет ценителям качественного звука и безупречного внешнего вида.
+              </p>
+            ]]>
+          </description>
+          <param name="Тип">Тенор</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="3" available="true">
+          <price>1495</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/ggDJfvN/1.png</picture>
+          <picture>https://i.ibb.co/bFc8YZt/2.png</picture>
+          <picture>https://i.ibb.co/vvppg2s/3.png</picture>
+          <picture>https://i.ibb.co/qRWfnpw/4.png</picture>
+          <picture>https://i.ibb.co/HqSfTDj/5.png</picture>
+          <vendor>SevenAngel</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле концерт SevenAngel S23M-uku</name>
+          <description>
+            <![CDATA[
+              <h3>Укулеле концерт SevenAngel S23M-uku</h3>
+              <p>
+                Новая укулеле концерт (гавайская гитара). 
+                Инструмент выполнен очень качественно с использованием дорогих пород дерева: клён и чёрное дерево,
+                что дает в сочетании прекрасное громкое звучание и удобство игры.
+                Укулеле концерт SevenAngel S23M-uku подойдет ценителям качественного звука и безупречного внешнего вида.
+              </p>
+            ]]>
+          </description>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="4" available="true">
+          <price>1495</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/QYxLQnK/1.png</picture>
+          <picture>https://i.ibb.co/KyT5t1Y/2.png</picture>
+          <picture>https://i.ibb.co/7zPRfHc/3.png</picture>
+          <picture>https://i.ibb.co/92t4mXQ/4.png</picture>
+          <picture>https://i.ibb.co/9hVBbcv/5.png</picture>
+          <picture>https://i.ibb.co/G0dy2Qx/6.png</picture>
+          <vendor>MUSIC</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле концерт MUSIC UK-23</name>
+          <description>
+            <![CDATA[
+              Укулеле концерт <b>MUSIC UK-23 зебрано</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
               <ul>
                 <li>
                   Имеет звонкий звук и приятный внешний вид
@@ -47,17 +198,1146 @@
               </ul>  
             ]]>
           </description>
-          <param name="Накладка грифа">Палисандр</param>
-          <param name="Корпус">Палисандр</param>
           <param name="Тип">Концерт</param>
           <param name="Количество струн">4</param>
-          <param name="Количество ладов">15</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
           <param name="Цвет">Natural</param>
-          <param name="Электроника">Нет</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
           <param name="Страна-производитель товара">Китай</param>
-          <param name="Доставка/Оплата">
-            Отправка товара осуществляется сразу после оформления и оплаты заказа
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="5" available="true">
+          <price>1590</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/9G8LwxM/1.png</picture>
+          <picture>https://i.ibb.co/r5xwJBm/2.png</picture>
+          <picture>https://i.ibb.co/2g2PxQ9/3.png</picture>
+          <picture>https://i.ibb.co/pK3nD9G/4.png</picture>
+          <picture>https://i.ibb.co/n8r7kq7/5.png</picture>
+          <picture>https://i.ibb.co/sgNb9CV/6.png</picture>
+          <vendor>MUSIC</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле MUSIC Sapele-rosewood 23"</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>MUSIC Sapele-rosewood 23"</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="6" available="true">
+          <price>1730</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/c2fD6RS/1.png</picture>
+          <picture>https://i.ibb.co/VgZr3s9/2.png</picture>
+          <picture>https://i.ibb.co/pv3D1MR/3.png</picture>
+          <picture>https://i.ibb.co/3WYMRqm/4.png</picture>
+          <picture>https://i.ibb.co/YNBMj0R/5.png</picture>
+          <picture>https://i.ibb.co/y6c9PKL/6.png</picture>
+          <vendor>MUSIC</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле тенор MUSIC UK-26</name>
+          <description>
+            <![CDATA[
+              <h3>Укулеле тенор MUSIC UK-26</h3>
+              <p>
+                Новая тенор укулеле (гавайская гитара) MUSIC UK-26. 
+                Инструмент выполнен очень качественно с использованием дорогих пород дерева: махагони и палисандра,
+                что дает в сочетании прекрасное громкое звучание и удобство игры.
+                Тенор укулеле MUSIC UK-26 подойдет ценителям качественного звука и безупречного внешнего вида.
+              </p>
+            ]]>
+          </description>
+          <param name="Тип">Тенор</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="7" available="true">
+          <price>1295</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/Hn4fqxj/1.png</picture>
+          <picture>https://i.ibb.co/9nPH29t/2.png</picture>
+          <picture>https://i.ibb.co/h13fyPn/3.png</picture>
+          <picture>https://i.ibb.co/J5mH9Kx/4.png</picture>
+          <picture>https://i.ibb.co/kxHtngP/5.png</picture>
+          <picture>https://i.ibb.co/NWxZv84/6.png</picture>
+          <vendor>Zebra</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле концерт Zebra 23"</name>
+          <description>
+            <![CDATA[
+              Укулеле концерт <b>Zebra 23"</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="8" available="true">
+          <price>14100</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>296831</categoryId>
+          <picture>https://i.ibb.co/thrRLKb/1.png</picture>
+          <picture>https://i.ibb.co/8YxTN58/2.png</picture>
+          <picture>https://i.ibb.co/ZMcTvyK/3.png</picture>
+          <picture>https://i.ibb.co/mJydrD2/4.png</picture>
+          <picture>https://i.ibb.co/YWnK3xZ/5.png</picture>
+          <picture>https://i.ibb.co/cLQkDfT/6.png</picture>
+          <vendor>L&amp;K</vendor>
+          <stock_quantity>2</stock_quantity>
+          <name>Саксофон альт L&amp;K YAS-82Z</name>
+          <description>
+            <![CDATA[
+              <h3>Доступность и качество</h3>
+              Саксофон YAS-82Z - прекрасный вибор для начинающих музыкантов.  
+
+              <p>
+                Используя многолетний опыт европейских производителей и современные технологии,
+                компания L&K создаёт качественные и при этом доступные духовые инструменты.
+              </p>
+            ]]>
+          </description>
+          <param name="Вид">Саксофоны</param>
+          <param name="Тип">Альт</param>
+          <param name="Материал корпуса">Латунь</param>
+          <param name="Дополнительные характеристики">Строй: Eb</param>
+          <param name="Размеры">640 x 280 x 200 мм</param>
+          <param name="Вес">3700 г.</param>
+          <param name="Комплектация">
+            <![CDATA[Саксофон<br/>Очиститель<br/>Перчатки<br/>Футляр<br/>Документация]]>
           </param>
+          <param name="Страна-производитель товара">Сингапур</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="9" available="true">
+          <price>12950</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>296831</categoryId>
+          <picture>https://i.ibb.co/jzmRwHT/image.png</picture>
+          <picture>https://i.ibb.co/4TvCVGj/image.png</picture>
+          <picture>https://i.ibb.co/2ZPkFHc/image.png</picture>
+          <picture>https://i.ibb.co/fNRCLVy/image.png</picture>
+          <picture>https://i.ibb.co/58BfSXk/image.png</picture>
+          <picture>https://i.ibb.co/wW12rSz/image.png</picture>
+          <vendor>SAX</vendor>
+          <stock_quantity>2</stock_quantity>
+          <name>Саксофон SAX Soprano Bb</name>
+          <description>
+            <![CDATA[
+              <p>
+                Это совершенно новый, великолепно звучащий саксофон, профессиональная модель.
+                Прекрасно подходит для студентов и начинающих саксофонистов.
+                Этот инструмент изготовлен из лучших медных материалов, таких как фосфорная бронза и медь.
+                Благодаря многолетнему опыту производителя, вы можете быть абсолютно уверены в
+                качестве звучания и долговечности данной модели.
+                Инструмент оснащен высокой Клавишей F#, регулируемой фиксацией большого пальца
+                и поставляется с жестким резиновым мундштуком, а также крепким защитным жестким чехлом.
+              </p>
+            ]]>
+          </description>
+          <param name="Вид">Саксофоны</param>
+          <param name="Тип">Сопрано</param>
+          <param name="Материал корпуса">Фосфорная бронзовая медь</param>
+          <param name="Дополнительные характеристики">Строй: Bb с высоким F и G ключом</param>
+          <param name="Размеры">640 x 280 x 200 мм</param>
+          <param name="Вес">3700 г.</param>
+          <param name="Комплектация">
+            <![CDATA[Саксофон<br/>Очиститель<br/>Кисть<br/>Перчатки<br/>Футляр<br/>Ремень<br/>Документация]]>
+          </param>
+          <param name="Страна-производитель товара">Сингапур</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="10" available="true">
+          <price>18250</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>296831</categoryId>
+          <picture>https://i.ibb.co/1TcNCfs/image.png</picture>
+          <picture>https://i.ibb.co/4VvGkS1/image.png</picture>
+          <picture>https://i.ibb.co/ctyL8QL/image.png</picture>
+          <picture>https://i.ibb.co/FYSNkJ4/image.png</picture>
+          <picture>https://i.ibb.co/2ht1Nnb/image.png</picture>
+          <picture>https://i.ibb.co/qdpZ1H7/image.png</picture>
+          <vendor>Selmer</vendor>
+          <stock_quantity>2</stock_quantity>
+          <name>Саксофон тенор Selmer 80 II TE</name>
+          <description>
+            <![CDATA[
+              <p>
+                Selmer 80 ll TE - ученический саксофон-тенор невероятно высокого качества, в котором
+                учтены и использованы многочисленные возможности, которые доступны только в
+                профессиональных моделях. Эргономичный дизайн механики позволяет чувствовать
+                себя абсолютно комфортно при игре. Подставка под большой палец имеет возможность
+                регулировки. Верхний клапан F# расширяет диапазон и возможности в плане репертуара.
+                Никелированное покрытие укрепляет механику, а регулировочные винты позволят всегда
+                держать ее в идеальном состоянии. Корпус покрыт прозрачным лаком, на раструб нанесено
+                мастерская гравировка. Футляр и мундштук предоставляются в комплекте с инструментом.
+              </p>
+            ]]>
+          </description>
+          <param name="Вид">Саксофоны</param>
+          <param name="Тип">Тенор</param>
+          <param name="Материал корпуса">Латунь</param>
+          <param name="Дополнительные характеристики">Строй: Bb</param>
+          <param name="Размеры">640 x 280 x 200 мм</param>
+          <param name="Вес">3700 г.</param>
+          <param name="Комплектация">
+            <![CDATA[Саксофон<br/>Очиститель<br/>Перчатки<br/>Футляр<br/>Ремень]]>
+          </param>
+          <param name="Страна-производитель товара">Сингапур</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="11" available="true">
+          <price>10590</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>296831</categoryId>
+          <picture>https://i.ibb.co/mH0mynY/image.png</picture>
+          <picture>https://i.ibb.co/84w01LD/image.png</picture>
+          <picture>https://i.ibb.co/cJ6KJtv/image.png</picture>
+          <picture>https://i.ibb.co/5h9sKzC/image.png</picture>
+          <picture>https://i.ibb.co/KDbdDb8/image.png</picture>
+          <picture>https://i.ibb.co/0JJ5jtS/image.png</picture>
+          <vendor>Slade</vendor>
+          <stock_quantity>2</stock_quantity>
+          <name>Саксофон альт Slade Bend</name>
+          <description>
+            <![CDATA[
+              <![CDATA[
+              Саксофон альт <b>Slade Bend</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Имеет красивый, чистый звук, даря приятное чувство вибрации
+                </li>
+                <li>
+                  Корпус расписан узорами тонкой ручной работы
+                </li>
+                <li>
+                  Хороший тембр и высокая чувствительность
+                </li>
+                <li>
+                  Простой и элегантный, подходит для профессионального использования
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Саксофоны</param>
+          <param name="Тип">Альт</param>
+          <param name="Материал корпуса">Латунь</param>
+          <param name="Цвет изделия">Чёрный</param>
+          <param name="Дополнительные характеристики">Строй: E</param>
+          <param name="Размеры">640 x 280 x 200 мм</param>
+          <param name="Вес">3700 г.</param>
+          <param name="Комплектация">
+            <![CDATA[Саксофон x 1<br/>Перчатки x 2<br/>Мундштук x 1<br/>Трубка мундштука x 1<br/>Трости x 1 (коробка)<br/>Салфетка для протирания x 2<br/>Ремешок x 4<br/>Чистящая палка x 1<br/>Руководство x 1]]>
+          </param>
+          <param name="Страна-производитель товара">Сингапур</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="12" available="true">
+          <price>1695</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>306949</categoryId>
+          <picture>https://i.ibb.co/mHWwCZ8/image.png</picture>
+          <picture>https://i.ibb.co/mbWcBPK/image.png</picture>
+          <vendor>Violin</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Скрипка Violin Linden 1/8 Чёрная</name>
+          <description>
+            <![CDATA[
+              <p>
+                Матовая скрипка ручной работы для начинающих, отлично подходит для обучения детей!
+                Имеет экономичный, окрашенный и блестящий внешний вид, а также сильный, красивый звук
+                Качественный инструмент из настоящего дерева, отсутствуют дешёвые пластмассовые детали
+              </p>
+            ]]>
+          </description>
+          <param name="Верхняя дека">Липа</param>
+          <param name="Гриф">Липа</param>
+          <param name="Обечайка">Липа</param>
+          <param name="Колки">Чёрное дерево</param>
+          <param name="Размер инструмента">1/8</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Особенности">Цельная нижняя дека, полностью деревянный инструмент</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="13" available="true">
+          <price>1695</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>306949</categoryId>
+          <picture>https://i.ibb.co/5npxmmd/image.png</picture>
+          <picture>https://i.ibb.co/bJPbJw7/image.png</picture>
+          <picture>https://i.ibb.co/tsdQ0Jk/image.png</picture>
+          <vendor>Violin</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Скрипка Violin Linden 1/8 Розовая</name>
+          <description>
+            <![CDATA[
+              <p>
+                Матовая скрипка ручной работы для начинающих, отлично подходит для обучения детей!
+                Имеет экономичный, окрашенный и блестящий внешний вид, а также сильный, красивый звук
+                Качественный инструмент из настоящего дерева, отсутствуют дешёвые пластмассовые детали
+              </p>
+            ]]>
+          </description>
+          <param name="Верхняя дека">Липа</param>
+          <param name="Гриф">Липа</param>
+          <param name="Обечайка">Липа</param>
+          <param name="Колки">Чёрное дерево</param>
+          <param name="Размер инструмента">1/8</param>
+          <param name="Цвет">Розовый</param>
+          <param name="Особенности">Цельная нижняя дека, полностью деревянный инструмент</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="14" available="true">
+          <price>1060</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>307539</categoryId>
+          <picture>https://i.ibb.co/Lr84kxg/image.png</picture>
+          <picture>https://i.ibb.co/LzSBSRF/image.png</picture>
+          <picture>https://i.ibb.co/0n6TnGx/image.png</picture>
+          <picture>https://i.ibb.co/BrkgM6C/image.png</picture>
+          <picture>https://i.ibb.co/6svsWxQ/image.png</picture>
+          <picture>https://i.ibb.co/6NF3LcL/image.png</picture>
+          <vendor>CELLO-BAG</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Чехол для виолончели CELLO-BAG 3/4</name>
+          <description>
+            <![CDATA[
+              <p>
+                Водонепроницаемый чехол для виолончели 3/4, утеплитель 20 мм,
+                2 шлейки, что позволяет носить чехол как рюкзак, боковая ручка.
+                Большой карман, а так же карман для смычка. Отличный вариант для музыкантов,
+                которые часто носят виолончель на улицу, концерты и в музыкальные школы.
+                Удобные шлейки, ручка позволят аккуратно и без риска для инструмента перевезти
+                его в любом виде транспорта. С этим чехлом инструменту не страшен ни дождь,
+                ни снег, ни мороз. Утеплитель спасёт как от перепадов температуры,
+                так и от внешних механических повреждений.
+              </p>
+            ]]>
+          </description>
+          <param name="Тип">Чехлы</param>
+          <param name="Назначение">Для виолончели</param>
+          <param name="Для инструмента размером">3/4</param>
+          <param name="Дополнительные характеристики">
+            <![CDATA[Водонепроницаемость<br/>Утеплитель<br/>2 шлейки<br/>Боковая ручка<br/>Большой карман + карман для смычка]]>
+          </param>
+          <param name="Материал">Высокопрочный пенопласт</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="15" available="true">
+          <price>1295</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/GMw0BcX/image.png</picture>
+          <picture>https://i.ibb.co/nwk5HWC/image.png</picture>
+          <picture>https://i.ibb.co/fp8GCjC/image.png</picture>
+          <picture>https://i.ibb.co/sPqmbmT/image.png</picture>
+          <picture>https://i.ibb.co/Gt2sGsN/image.png</picture>
+          <picture>https://i.ibb.co/X2h7CCv/image.png</picture>
+          <vendor>BWS</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле концерт BWS Concert (529-2) Natural</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>BWS Concert 23"</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Концерт</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Красное дерево</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="16" available="true">
+          <price>710</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>307539</categoryId>
+          <picture>https://i.ibb.co/C79JJJh/1.jpg</picture>
+          <picture>https://i.ibb.co/Z64fNxP/image.jpg</picture>
+          <vendor>Cello bow</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Смычок для виолончели Cello bow (CB-2857)</name>
+          <description>
+            <![CDATA[
+              <p>
+                Смычок сделан из качественного бразильского дерева
+                <br/>
+                Круглая палка
+                <br/>
+                Натуральный белый конский волос
+                <br/>
+                Хороший развал и отличное натяжение
+              </p>
+            ]]>
+          </description>
+          <param name="Тип">Смычки</param>
+          <param name="Назначение">Для виолончели</param>
+          <param name="Для инструмента размером">3/4</param>
+          <param name="Материал">Колодка из чёрного дерева, натуральный конский волос</param>
+          <param name="Волос">Белый конский</param>
+          <param name="Колодка">Чёрное дерево</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="17" available="true">
+          <price>3550</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>4629017</categoryId>
+          <picture>https://i.ibb.co/xsQXW6n/image.png</picture>
+          <picture>https://i.ibb.co/T4p3BXF/image.png</picture>
+          <picture>https://i.ibb.co/ZzYxb2C/image.png</picture>
+          <picture>https://i.ibb.co/DzyB2Jw/image.png</picture>
+          <picture>https://i.ibb.co/yR6KD4h/image.png</picture>
+          <picture>https://i.ibb.co/4PRpWVd/image.png</picture>
+          <vendor>Brass</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Труба Brass Trumpet Bb</name>
+          <description>
+            <![CDATA[
+              <h3>Труба си-бемоль</h3>
+              <br/>
+              Данная модель – лучший выбор для начинающего музыканта
+              <ul>
+                <li>
+                  Инструмент может похвастаться красивым чистым звуком, а также прекрасным внешним видом
+                </li>
+                <li>
+                  Высококачественный прочный латунный корпус
+                </li>
+                <li>
+                  В комплекте идёт мундшутк, ремешок и перчатки
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Трубы</param>
+          <param name="Строй">Си-бемоль (Bb)</param>
+          <param name="Количество клапанов">3</param>
+          <param name="Материал корпуса">Латунь</param>
+          <param name="Покрытие/цвет">Золотистый</param>
+          <param name="Мундштук">Посеребренный</param>
+          <param name="Диаметр раструба">123 мм</param>
+          <param name="Комплектация">
+            <![CDATA[Труба<br/>Футляр<br/>Мундштук<br/>Документация]]>
+          </param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Диаметр раструба">123 мм</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="18" available="true">
+          <price>350</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>296822</categoryId>
+          <picture>https://i.ibb.co/27vMR77/image.png</picture>
+          <picture>https://i.ibb.co/rfXyjPx/image.png</picture>
+          <picture>https://i.ibb.co/VTDWtv9/image.png</picture>
+          <picture>https://i.ibb.co/2ZmSRwX/image.png</picture>
+          <picture>https://i.ibb.co/w4kBg0y/image.png</picture>
+          <picture>https://i.ibb.co/Fb2v80t/image.png</picture>
+          <vendor>Ammoon</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Тамбурин бубен Ammoon 10"</name>
+          <description>
+            <![CDATA[
+              <ul>
+                <li>
+                  Размер 10 дюймов - удобно лежит в руке
+                </li>
+                <li>
+                  Выполнен полностью из натурального дерева и кожи, без дешёвых пластиковых деталей
+                </li>
+                <li>
+                  Имеет отличный громкий звук
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Бубны, тамбурины</param>
+          <param name="Размеры">10"</param>
+          <param name="Материалы">Дерево, кожа</param>
+          <param name="Дополнительные характеристики">16 тарелочек</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="19" available="true">
+          <price>950</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>297035</categoryId>
+          <picture>https://i.ibb.co/cXXDk0X/image.png</picture>
+          <picture>https://i.ibb.co/jLtWRJN/image.png</picture>
+          <picture>https://i.ibb.co/BN33qg6/image.png</picture>
+          <picture>https://i.ibb.co/HD79Lj0/image.png</picture>
+          <picture>https://i.ibb.co/FXTLsXP/image.png</picture>
+          <picture>https://i.ibb.co/tqzfb4f/image.png</picture>
+          <vendor>SAX</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Чехол кейс для альт саксофона SAX BAG (b-117)</name>
+          <description>
+            <![CDATA[
+              <ul>
+                <li>
+                  Сверхтолстый прочный наполнитель
+                </li>
+                <li>
+                  Дополнительный карман для хранения тростей и нот
+                </li>
+                <li>
+                  Модный, элегантный дизайн
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Чехлы</param>
+          <param name="Назначение">Для саксофона</param>
+          <param name="Тип инструмента">Альт</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="20" available="true">
+          <price>59</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>298449</categoryId>
+          <picture>https://i.ibb.co/Z1Cz5gY/image.png</picture>
+          <picture>https://i.ibb.co/98tYQr9/image.png</picture>
+          <picture>https://i.ibb.co/k1G6nYR/image.png</picture>
+          <picture>https://i.ibb.co/smstrFq/image.png</picture>
+          <picture>https://i.ibb.co/5X0qbLn/image.png</picture>
+          <picture>https://i.ibb.co/dBBQtzq/image.png</picture>
+          <vendor>JETTING</vendor>
+          <stock_quantity>20</stock_quantity>
+          <name>Держатель для микрофона JETTING Mic-holder</name>
+          <description>
+            <![CDATA[
+              <ul>
+                <li>
+                  Полностью гибкая головка позволяет настраивать положение микрофона максимально комфортно
+                </li>
+                <li>
+                  Подходит для всех микрофонов
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Держатели</param>
+          <param name="Размеры">Резьба: 10 мм + 16 мм (3/8" + 5/8")</param>
+          <param name="Дополнительные характеристики">Материал: гибкий пластик</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="21" available="true">
+          <price>1695</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/3kvQ8JX/image.png</picture>
+          <picture>https://i.ibb.co/7p20gxt/image2.png</picture>
+          <picture>https://i.ibb.co/wshtYTH/image.png</picture>
+          <picture>https://i.ibb.co/mvBrxqY/image.png</picture>
+          <picture>https://i.ibb.co/1nNk1rq/image3.png</picture>
+          <vendor>Ammoon</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле сопрано Ammoon 24-inch (Type 3)</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>Ammoon Soprano 24-inch</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Сопрано</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Саппеле</param>
+          <param name="Материал нижней деки">Саппеле</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Саппеле</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="22" available="true">
+          <price>1765</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/2qBDk5d/1.png</picture>
+          <picture>https://i.ibb.co/k3jz87B/image.png</picture>
+          <picture>https://i.ibb.co/5WhYWRN/image.png</picture>
+          <picture>https://i.ibb.co/Lt3ZMV0/image.png</picture>
+          <picture>https://i.ibb.co/rxYmFLf/2.png</picture>
+          <picture>https://i.ibb.co/p2ShVYg/3.jpg</picture>
+          <vendor>Ammoon</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле сопрано Ammoon 24-inch (Type 2)</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>Ammoon Soprano 24-inch</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Сопрано</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">18</param>
+          <param name="Материал верхней деки">Саппеле</param>
+          <param name="Материал нижней деки">Саппеле</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Саппеле</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="23" available="true">
+          <price>940</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/xjwYCwm/image.png</picture>
+          <picture>https://i.ibb.co/v43H682/image.png</picture>
+          <picture>https://i.ibb.co/ZT40XwS/image.png</picture>
+          <picture>https://i.ibb.co/dWJKZ2b/image.png</picture>
+          <picture>https://i.ibb.co/Qf2ppSg/image.png</picture>
+          <vendor>Kalat</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле сопрано Kalat 21-inch</name>
+          <description>
+            <![CDATA[
+              Укулеле <b>Kalat 21-inch</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Сопрано</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">12</param>
+          <param name="Материал верхней деки">Махогани</param>
+          <param name="Материал нижней деки">Махогани</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Махогани</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="24" available="true">
+          <price>1050</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>297113</categoryId>
+          <picture>https://i.ibb.co/hZkS9zJ/image.png</picture>
+          <picture>https://i.ibb.co/4FVm7JL/image.png</picture>
+          <picture>https://i.ibb.co/m9Fft8b/image.png</picture>
+          <vendor>Irin</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Пианика мелодика Irin духовой музыкальный инструмент 37 клавиш</name>
+          <description>
+            <![CDATA[
+              Пианика <b>Irin 37</b> - инструмент из семейства гармоник, имеющий некоторое сходство с аккордеоном и губной гармоникой
+              <ul>
+                <li>
+                  Интсрумент может похвастаться красивым звуком и отличным внешним видом
+                </li>
+                <li>
+                  Очень просто научиться играть, легкоё звукоизвлечение
+                </li>
+                <li>
+                  Отлично подходит как для начинающих музыкантов, так и для профессионалов
+                </li>
+                <li>
+                  Количество клавиш: 37 шт
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Количество клавиш">37</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Материал язычков">Латунь</param>
+          <param name="Тональность (диапазон)">F малой октавы, F третей октавы (три октавы)</param>
+          <param name="Материал корпуса">Пластик</param>
+          <param name="Комплектация">
+            <![CDATA[Футляр для хранения и переноски<br/>Мундштук длинный<br/>Мундштук короткий]]>
+          </param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="25" available="true">
+          <price>7561</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>4628334</categoryId>
+          <picture>https://i.ibb.co/d76jgnG/1.jpg</picture>
+          <picture>https://i.ibb.co/W5Fk4p4/2.jpg</picture>
+          <vendor>Admira</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Гитара классическая Admira Malaga</name>
+          <description>
+            <![CDATA[
+              <b>Admira Malaga изготовлена ​​в соответствии с классическими канонами в мастерских Admira</b>
+
+              <p>
+                Эта модель является одним самых популярных инструментов в линейке.
+                Благодаря верхней деке изготовленной из массива кедра звучание Malaga
+                очень насыщенное, яркое. Качественная механика обеспечивает точную настройку
+                инструмента, а разумная стоимость делает его очень удачным
+                приобретением как для начинающих так и для профессиональных музыкантов.
+              </p>
+            ]]>
+          </description>
+          <param name="Размер">Полноразмерные</param>
+          <param name="Количество струн">6</param>
+          <param name="Количество ладов">19</param>
+          <param name="Материал верхней деки">Кедр</param>
+          <param name="Вид звукоснимателя">Пьезоэлектрический</param>
+          <param name="Материал нижней деки">Сапелли</param>
+          <param name="Материал грифа деки">Красное дерево</param>
+          <param name="Материал боковых панелей">Сапелли</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Монгой</param>
+          <param name="Особенности">Цельная верхняя дека</param>
+          <param name="Накладка грифа">Овангкол</param>
+          <param name="Страна-производитель товара">Испания</param>
+          <param name="Страна регистрации бренда">Испания</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="26" available="true">
+          <price>8000</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>4628334</categoryId>
+          <picture>https://i.ibb.co/2cqw7kR/1.jpg</picture>
+          <picture>https://i.ibb.co/yWCZcpB/2.jpg</picture>
+          <vendor>Admira</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Гитара классическая Admira A1</name>
+          <description>
+            <![CDATA[
+              <p>
+                Классические гитары А серии вобрали в себя многолетний опыт мастеров компании Аdmira в создании инструментов.
+                Сочетание истинно испанских традиций и современных технологий делает эти инструменты идеальным
+                выбором для продвинутых музыкантов, студентов музыкальных училищ и учащихся старших классов музыкальных школ.
+              </p>
+
+              <b>Верхняя дека из цельного кедра</b>
+
+              <p>
+                Верхняя дека Admira A1 изготовлена ​​из массива кедра. По сравнению с традиционной елью,
+                кедр звучит ярче, с упругими басами, отчетливо подчеркнутой серединой и мягкими
+                сладкими верхами. Идеально для музыкантов, предпочитающих более округлое и плотное звучание.
+              </p>
+
+              <b>Нижняя дека и обечайка из сапеле</b>
+
+              <p>
+                Для изготовления обечайки и нижней деки А1 используется африканское сапеле.
+                Эту породу иногда называют "африканское красное дерево"
+                за изящную фактуру, прочность и отличные резонансные характеристики.
+              </p>
+            ]]>
+          </description>
+          <param name="Размер">Полноразмерные</param>
+          <param name="Количество струн">6</param>
+          <param name="Количество ладов">19</param>
+          <param name="Материал верхней деки">Кедр</param>
+          <param name="Вид звукоснимателя">Пьезоэлектрический</param>
+          <param name="Материал нижней деки">Сапелли</param>
+          <param name="Материал грифа деки">Красное дерево</param>
+          <param name="Материал боковых панелей">Сапелли</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Бридж (подставка/струнодержатель)">Монгой</param>
+          <param name="Особенности">Цельная верхняя дека</param>
+          <param name="Накладка грифа">Овангкол</param>
+          <param name="Страна-производитель товара">Испания</param>
+          <param name="Страна регистрации бренда">Испания</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="27" available="true">
+          <price>595</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>294194</categoryId>
+          <picture>https://i.ibb.co/wCVyF6p/FZU002-black-fzone-jpg-5f0461f619b00.jpg</picture>
+          <vendor>Fzone</vendor>
+          <stock_quantity>10</stock_quantity>
+          <name>Укулеле сопрано FZONE FZU-002 (Black)</name>
+          <description>
+            <![CDATA[
+              <![CDATA[
+              Укулеле <b>FZONE FZU-002</b> - качественный инструмент, прошедший при изготовлении строгий контроль качества.
+              <ul>
+                <li>
+                  Интсрумент может похвастаться кристально чистым звуком
+                </li>
+                <li>
+                  Легкий и приятный на ощупь
+                </li>
+                <li>
+                  Данный инструмент очень легко освоить, и подходит он, как для взрослых, так и для детей
+                </li>
+                <li>
+                  За счет компактных размеров и небольшого веса, очень удобен в переносе и хранении
+                </li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Тип">Сопрано</param>
+          <param name="Количество струн">4</param>
+          <param name="Количество ладов">12</param>
+          <param name="Материал верхней деки">Липа</param>
+          <param name="Материал нижней деки">Липа</param>
+          <param name="Материал грифа">Чёрное дерево</param>
+          <param name="Материал боковой панели">Липа</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Колки">Пластик</param>
+          <param name="Бридж (подставка/струнодержатель)">Палисандр</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="28" available="true">
+          <price>2895</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>267256</categoryId>
+          <picture>https://i.ibb.co/FKdt2Py/1.jpg</picture>
+          <picture>https://i.ibb.co/hmQ49Xb/2.jpg</picture>
+          <vendor>Cort</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Гитара акустическая Cort AD810 (Open Pore)</name>
+          <description>
+            <![CDATA[
+              <b>Cort AD810 - это прекрасный выбор для начинающего с характерным для гитар Cort лучшим соотношением цена / качество</b>
+
+              <p>
+                Именно соотношение цена / качество позволило акустической гитаре CORT AD810
+                стать лидером продаж на украинском рынке! AD810 - это классический дредноут
+                с большим объемным корпусом из красного дерева и верхней декой из ели.
+                Эта проверенная классическая комбинация позволяет получить сбалансированное
+                и громкое звучание во всем диапазоне частот.
+              </p>
+
+              <p>
+                Удобный и комфортный для игры гриф изготовлен из красного дерева
+                с накладкой из палисандра и 20 ладами. Колки закрытого типа
+                имеют мягкий ход и надежно держат строй инструмента.
+                А новое покрытие типа Open Pore (OP) не только позволяет насладиться
+                визуальной текстурой древесины, но позволяет инструменту свободно
+                "дышать", тем самым повышая его естественную громкость и яркость.
+              </p>
+            ]]>
+          </description>
+          <param name="Размер">Полноразмерные</param>
+          <param name="Количество струн">6</param>
+          <param name="Количество ладов">20</param>
+          <param name="Тип корпуса">Dreadnought</param>
+          <param name="Материал верхней деки">Ель</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа деки">Красное дерево</param>
+          <param name="Материал боковых панелей">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Хромированные</param>
+          <param name="Мензура">25.6"</param>
+          <param name="Особенности">Цельная верхняя дека</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Дополнительные характеристики">Струны: Jumbo 6ST (.012, .016, .024, .038, .041, .052)</param>
+          <param name="Страна-производитель товара">Индонезия</param>
+          <param name="Страна регистрации бренда">Корея</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="29" available="true">
+          <price>2895</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>4628334</categoryId>
+          <picture>https://i.ibb.co/Z2VCYTp/1.png</picture>
+          <picture>https://i.ibb.co/T8BhVgT/2.jpg</picture>
+          <vendor>Cort</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Гитара классическая Cort AC100 (Open Pore)</name>
+          <description>
+            <![CDATA[
+              <b>CORT AC100 - это прекрасный выбор для начинающего с характерным для гитар Cort лучшим соотношением цена / качество</b>
+
+              <p>
+                Классические гитары Cort серии AC отличаются улучшенным резонансом и
+                аутентичным традиционным звучанием. Подобранная комбинация пород
+                дерева позволила добиться глубокого насыщенного тона.
+                Эти инструменты прекрасно подойдут для начинающих музыкантов
+                благодаря замечательной чуткости и меньшей требовательности к звукоизвлечения.
+              </p>
+
+              <p>
+                Cort AC100 - это замечательный инструмент по доступной цене,
+                идеально подходит как для гитаристов начинающих, так и для профессионалов.
+                С момента своего появления и до сих пор эта модель является абсолютным
+                бестселлером и рекомендуется многими педагогами музыкальных
+                школ в качестве первого инструмента.
+              </p>
+            ]]>
+          </description>
+          <param name="Размер">Полноразмерные</param>
+          <param name="Количество струн">6</param>
+          <param name="Количество ладов">19</param>
+          <param name="Материал верхней деки">Ель</param>
+          <param name="Материал нижней деки">Красное дерево</param>
+          <param name="Материал грифа деки">Красное дерево</param>
+          <param name="Материал боковых панелей">Красное дерево</param>
+          <param name="Цвет">Natural</param>
+          <param name="Колки">Никелированные</param>
+          <param name="Мензура">25.6"</param>
+          <param name="Особенности">Цельная верхняя дека</param>
+          <param name="Накладка грифа">Палисандр</param>
+          <param name="Дополнительные характеристики">Струны: D'Addario EXP46N</param>
+          <param name="Страна-производитель товара">Индонезия</param>
+          <param name="Страна регистрации бренда">Корея</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="30" available="true">
+          <price>139</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>274431</categoryId>
+          <picture>https://i.ibb.co/LPpBKHY/1.jpg</picture>
+          <vendor>Fzone</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Чехол для укулеле сопрано Fzone CUB1</name>
+          <description>
+            <![CDATA[
+              <ul>
+                <li>Крепкий чёрный нейлон 600D</li>
+                <li>Утеплитель 5мм</li>
+                <li>Внутренняя обшивка - чёрный нейлон</li>
+                <li>7мм замок "молния"</li>
+                <li>Внешний карман на молнии</li>
+                <li>Мягкая ручка для удобства транспортировки в руке</li>
+                <li>Наплечная лямка для перенесения</li>
+                <li>Внутренние размеры: 550 х 200 х 70 мм</li>
+              </ul>
+            ]]>
+          </description>
+          <param name="Вид">Чехлы</param>
+          <param name="Назначение">Для укулеле</param>
+          <param name="Для инструментов размером">Сопрано</param>
+          <param name="Наружный материал">Нейлон</param>
+          <param name="Внутренние размеры">550 х 200 х 70 мм</param>
+          <param name="Дополнительные характеристики">
+            Толщина защитного слоя - 5 мм (вспененный полиуретан), Внутренняя отделка - черный нейлон
+          </param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
+        </offer>
+
+        <offer id="31" available="true">
+          <price>170</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>274431</categoryId>
+          <picture>https://i.ibb.co/R6TjTx8/1.jpg</picture>
+          <picture>https://i.ibb.co/58mmKYr/2.png</picture>
+          <vendor>Fzone</vendor>
+          <stock_quantity>5</stock_quantity>
+          <name>Чехол для классической гитары Fzone FGB41</name>
+          <description>
+            <![CDATA[
+              <p>
+                Чехол для гитары типа дредноут
+                <br/>
+                Прочный черный нейлон 600D
+                <br/>
+                Без защитного слоя
+                <br/>
+                Наружный карман на молнии
+                <br/>
+                Наплечные лямки для транспортировки
+              </p>
+            ]]>
+          </description>
+          <param name="Вид">Чехлы</param>
+          <param name="Назначение">Для классических гитар</param>
+          <param name="Для инструментов размером">Полноразмерная</param>
+          <param name="Наружный материал">Нейлон</param>
+          <param name="Дополнительные характеристики">Наружный карман на молнии, Наплечные лямки для транспортировки</param>
+          <param name="Цвет">Чёрный</param>
+          <param name="Страна-производитель товара">Китай</param>
+          <param name="Страна регистрации бренда">США</param>
+          <param name="Гарантия">1 месяц</param>
         </offer>
       </offers>
    </shop>
